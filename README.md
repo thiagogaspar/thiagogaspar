@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thiagogaspar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning React, Node.js
+- 👀 I’m interested in rockmusic
+- 🌱 I’m currently learning Vue.js and TypeScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... thiagogasparp@gmail.com
 
